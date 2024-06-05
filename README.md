@@ -6,7 +6,7 @@ Sofware Developer from Colombia 🇨🇴, currently living in Bogotá.
 <hr/>
 
 ### ✨ About Me:
-<p>Highly skilled software engineer with 5 years of experience specializing in front-end development. Proficient in JavaScript, CSS, and HTML, with expertise in implementing cutting-edge technologies such as ReactJS (Next.js, Razzle, Vite, or Gatsby) and Vue.js (Nuxt.js). Experienced in state management using Redux, context, and Zustand, and proficient in unit testing with Jest and Mocha.
+<p>Highly skilled software engineer with 5 years of experience specializing in front-end development. Proficient in JavaScript, CSS, and HTML, with expertise in implementing cutting-edge technologies such as ReactJS (Next.js, Razzle, or Gatsby) and Vue.js (Nuxt.js). Experienced in state management using Redux, context, and Zustand, and proficient in unit testing with Jest and Mocha.
 Well-versed in automation testing with tools like Nightwatch and Cypress.
 Additionally, possess backend skills with proficiency in Node.js (Nest.js or Express), GraphQL, and working with NoSQL and SQL databases.</p>
 
