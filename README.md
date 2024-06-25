@@ -13,7 +13,7 @@ Additionally, possess backend skills with proficiency in Node.js (Nest.js or Exp
 ### 🛠️ Experience:
 <p><em>Software Enginner at <a href="https://www.ucentral.edu.co/">Central University</a> 🎓
 </br>
-Software Developer at <a href="https://www.rootstrap.com/">Rootstrap</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Software Developer at <a href="https://parserdigital.com/">Parser</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ```javascript
